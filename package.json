@@ -1,0 +1,14 @@
+{
+  "name": "sacn-color",
+  "version": "0.0.1",
+  "description": "A web app to display sACN RGBA color data.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "sacn": "^2.3.2",
+    "ws": "^8.18.3"
+  }
+}
